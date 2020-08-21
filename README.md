@@ -2,7 +2,7 @@
 
 This is a fork of @webrender [synthwave-x-fluoromachine](https://github.com/webrender/synthwave-x-fluoromachine) (which is a fork of @robbowen's [Synthwave '84 theme](https://marketplace.visualstudio.com/items?itemName=RobbOwen.synthwave-vscode), merged with @fullerenedream's [Fluoromachine](https://colorsublime.github.io/themes/FluoroMachine/) theme for VSCode.).
 
-In short this works with dark better than the original one :), and works on other langs(but designed for dart).
+In short this works with dart better than the original one :), and works on other langs(but designed for dart).
 
 ![Theme screenshot](https://github.com/Kaliham/synthwave-x-fluoromachine-dart/blob/master/screen_shot.PNG?raw=true)
 
