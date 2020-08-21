@@ -26,7 +26,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Synthwave x Fluoromachine",
+                "label": "Synthwave x Fluoromachine dart",
                 "uiTheme": "vs-dark",
                 "path": "./themes/synthwave-x-fluoromachine.json"
             }
