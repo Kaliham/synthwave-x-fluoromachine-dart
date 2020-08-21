@@ -4,7 +4,7 @@ This is a fork of @webrender [synthwave-x-fluoromachine](https://github.com/webr
 
 In short this works with dark better than the original one :), and works on other langs(but designed for dart).
 
-![Theme screenshot](./screen_shot.png)
+![Theme screenshot](https://github.com/Kaliham/synthwave-x-fluoromachine-dart/blob/master/screen_shot.PNG?raw=true)
 
 ## Installation
 
